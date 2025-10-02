@@ -1,2 +1,3 @@
 rootProject.name = 'java-genai-examples'
 include 'spring-boot-mcp-server'
+include 'langchain4j-mcp-client'
